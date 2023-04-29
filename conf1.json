@@ -1,0 +1,18 @@
+{
+    "width": 8,
+    "height":  16,
+    "energyFromPlant": 10,
+    "startPlants": 8,
+    "dayPlants": 2,
+    "startAnimals": 12,
+    "startEnergy": 30,
+    "fullEnergy": 19,
+    "birthEnergy": 12,
+    "minMutation": 2,
+    "maxMutation": 3,
+    "genomLength": 13,
+    "typeOfPlants": "corpseS",
+    "typeOfMutation": "RandOM",
+    "typeOfMovement": "crazy",
+    "typeOfPlanet": "portal"
+}
